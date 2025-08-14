@@ -1,3 +1,22 @@
+---
+PROJECT TITLE:Wenidi
+---
+---
+TEAM NAME: Web3 Wizards
+---
+---
+Team members: G.V.S.Hasini & P.Likhitha Sai
+---
+PPT drive link: https://docs.google.com/presentation/d/1TEOqNq_eyBi-9VS3kZhW5b_2Q4qBsII0/edit?usp=sharing&ouid=110849707827326512505&rtpof=true&sd=true
+---
+LINKEDIN URLS PROFILES:
+  Hasini: https://www.linkedin.com/in/hasini-chandana-g-v-s-1a3819374/
+  LIKHITHA: www.linkedin.com/in/likhitha-sai-287a4832b/
+---
+
+
+
+
 # Wenidi - Blockchain Attendance System
 
 A decentralized attendance tracking system built on the Aptos blockchain using Move smart contracts and React.js frontend.This is an application is used to mark attendence of students and also teachers.Since there is an admin login teachers can visit it by using there login and check their students attendence whereas the head of the school/college can use this application to know how much can be given to techers based on their attendence.
@@ -233,7 +252,9 @@ For support and questions:
   ---
   ![alt text](image.png)
   ---
-
+  <img width="1905" height="917" alt="image" src="https://github.com/user-attachments/assets/e8fce408-01b6-4052-9e25-2ca151fa731e" />
+   <img width="1893" height="918" alt="image" src="https://github.com/user-attachments/assets/628d68a5-4fee-4e33-a0c9-fd38a40c6036" />
+  ---
 ---
 Team name: Web3 Wizards
 ---
