@@ -234,4 +234,13 @@ For support and questions:
 ---
 
 Built with ❤ using Aptos and React.js
+
 ![alt text](image.png)
+---
+---
+Team name: Web3 Wizards
+---
+Team members: G.V.S.Hasini & P.Likhitha Sai
+---
+PPT drive link: https://docs.google.com/presentation/d/1TEOqNq_eyBi-9VS3kZhW5b_2Q4qBsII0/edit?usp=sharing&ouid=110849707827326512505&rtpof=true&sd=true
+---
