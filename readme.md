@@ -1,6 +1,7 @@
 # Wenidi - Blockchain Attendance System
 
-A decentralized attendance tracking system built on the Aptos blockchain using Move smart contracts and React.js frontend.
+A decentralized attendance tracking system built on the Aptos blockchain using Move smart contracts and React.js frontend.This is an application is used to mark attendence of students and also teachers.Since there is an admin login teachers can visit it by using there login and check their students attendence whereas the head of the school/college can use this application to know how much can be given to techers based on their attendence.
+
 
 ## 🌟 Features
 
@@ -244,3 +245,4 @@ Team members: G.V.S.Hasini & P.Likhitha Sai
 ---
 PPT drive link: https://docs.google.com/presentation/d/1TEOqNq_eyBi-9VS3kZhW5b_2Q4qBsII0/edit?usp=sharing&ouid=110849707827326512505&rtpof=true&sd=true
 ---
+
