@@ -230,6 +230,9 @@ For support and questions:
 - Create an issue on GitHub
 - Join our community Discord
 - Email: support@wenidi.app
+  ---
+  ![alt text](image.png)
+  ---
 
 ---
 Team name: Web3 Wizards
